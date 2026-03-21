@@ -15,4 +15,5 @@ Shared repository for agent-specific skills and supporting assets.
 
 ## Included Skills
 
+- `claude/skills/gh-cli`: GitHub CLI skill for `gh`-based repository, PR, issue, workflow, and API tasks
 - `codex/skills/gh-cli`: GitHub CLI skill for `gh`-based repository, PR, issue, workflow, and API tasks
