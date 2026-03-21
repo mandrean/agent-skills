@@ -12,3 +12,7 @@ Shared repository for agent-specific skills and supporting assets.
 - Keep one skill per subdirectory.
 - Keep reusable references, scripts, and assets inside each skill directory.
 - Document tool-specific setup close to the skill that needs it.
+
+## Included Skills
+
+- `codex/skills/gh-cli`: GitHub CLI skill for `gh`-based repository, PR, issue, workflow, and API tasks
