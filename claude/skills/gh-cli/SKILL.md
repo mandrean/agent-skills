@@ -2,7 +2,7 @@
 name: gh-cli
 description: Operate GitHub through the `gh` command-line tool. Use when a task involves GitHub CLI, `gh` commands, repositories, pull requests, issues, releases, workflow runs, codespaces, extensions, authentication, or `gh api` requests from a terminal or automation.
 argument-hint: "[gh subcommand or task description]"
-allowed-tools: Bash, Read
+allowed-tools: Bash(gh *), Read
 ---
 
 # GH CLI

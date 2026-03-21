@@ -21,7 +21,7 @@ claude/skills/<skill-name>/
 name: skill-name           # Becomes the /slash-command name
 description: …             # Used by Claude to decide when to auto-invoke
 argument-hint: […]         # Shown in autocomplete (optional)
-allowed-tools: Bash, Read  # Tools usable without permission prompts (optional)
+allowed-tools: Bash(gh *), Read  # Scope no-prompt shell access narrowly (optional)
 ---
 ```
 
