@@ -28,3 +28,4 @@ allowed-tools: Bash(gh *), Read  # Scope no-prompt shell access narrowly (option
 ## Current Skills
 
 - `gh-cli`: Use `gh` for GitHub repository, PR, issue, Actions, and `gh api` workflows
+- `harvest`: Fill out Harvest timesheets — copies last week's entries to the current week, or interactively pick projects and tasks
