@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jira CLI"
+  short_description: "Use Jira CLI for issues, epics, sprints, and boards"
+  default_prompt: "Use $jira-cli to inspect and operate Jira resources with the jira command."
